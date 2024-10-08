@@ -52,6 +52,8 @@ Use the Library:
 </script>
 ```
 
+![Image](.github/screenshots/pic.png)
+
 ### Node.js Usage
 
 Install svg.js:
@@ -100,7 +102,7 @@ renderer.draw();
   <body>
     <div id="circuit-container"></div>
     <!-- Include svg.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/svg.js/3.1.2/svg.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/svg.js/3.2.4/svg.min.js"></script>
     <!-- Include the quantum-circuit-drawer library -->
     <script src="node_modules/quantum-circuit-drawer/dist/quantum-circuit-drawer.js"></script>
     <script>
